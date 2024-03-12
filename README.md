@@ -14,4 +14,4 @@ Played around with
 
 ## Trailer
 
-https://youtu.be/guMDbzi0uwc
+[![Watch Trailer](http://img.youtube.com/vi/guMDbzi0uwc/0.jpg)](https://youtu.be/guMDbzi0uwc)
